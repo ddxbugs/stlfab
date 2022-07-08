@@ -1,2 +1,4 @@
 # 3d fabrication
-- stl repos
+-- stl file repository for engineering prototype
+--
+
